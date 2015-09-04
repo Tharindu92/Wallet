@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'monsieurladoulaise regular';
+	src: url('monsieurladoulaise-regular-webfont.eot');
+	src: url('monsieurladoulaise-regular-webfont.eot?#iefix') format('embedded-opentype'),
+		url('monsieurladoulaise-regular-webfont.woff') format('woff'),
+		url('monsieurladoulaise-regular-webfont.ttf') format('truetype'),
+		url('monsieurladoulaise-regular-webfont.svg') format('svg');
+}
